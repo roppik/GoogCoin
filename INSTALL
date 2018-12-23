@@ -1,0 +1,9 @@
+Building googcoin
+
+See doc/readme-qt.rst for instructions on building googcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of googcoin.
+
+See doc/build-*.txt for instructions on building googcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of googcoin.
